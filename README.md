@@ -1,4 +1,4 @@
-# Instalation script for i3 evironment
+# Installation script for i3 evironment
 
 # About
 This script installs i3 with additional packages for Debian GNU/Linux and provides custom configuration.
@@ -15,5 +15,6 @@ and run with `sudo` command:
     `sudo ./install.sh`
     
 # Copyright
-Copyright (c) 2024 Daniel Głowacki <dglowacki4@gmail.com>
+Copyright (c) 2024 Daniel Głowacki <dglowacki4@gmail.com>.
+
 This project is released under GNUv3 licence.
