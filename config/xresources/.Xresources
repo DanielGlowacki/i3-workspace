@@ -1,0 +1,7 @@
+urxvt.background: #000000
+urxvt.foreground: #ffffff
+urxvt.scrollBar: false
+
+urxvt.font: xft:Monospace:size=10
+urxvt.boldFont: xft:Monospace-Bold:size=10
+urxvt.italicFont: xft:Monospace-Italic:size=10
