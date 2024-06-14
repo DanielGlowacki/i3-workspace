@@ -37,6 +37,10 @@ cp -rv ./config/i3 ~/.config/
 # Copy vim configuration file
 cp -v ./config/vim/* ~/.
 
+# Copy emacs configuration files
+mkdir -v ~/.emacs.d/
+cp -v ./config/emacs/init.el ~/.emacs.d/init.el
+
 # Reboot system
 echo "Rebooting system..."
 reboot
